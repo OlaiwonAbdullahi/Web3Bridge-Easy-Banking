@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: hsl(233, 26%, 24%);
+}
+.reqBtn{
+    width: 120px;
+    border-radius: 20%;
+}
+.hero-text{
+    font-size: 15px;
+    line-height: 22px;
+}
+.hero{
+    background-color: hsl(0, 0%, 98%);
+    width: 100%;
+}
+.heroImg{
+    height: 450px;
+    width: 450px;
+}
+h1{
+    font-size: 3rem;
+}
+.hero-right{
+    background-image: 
+    url("./images/bg-intro-desktop.svg");
+}
+.nav-pages{
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    float: inline-start;
+}
+
+.footer{
+    background-color: hsl(233, 26%, 24%);
+}
