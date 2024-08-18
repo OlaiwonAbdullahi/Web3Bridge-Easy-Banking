@@ -34,7 +34,22 @@ h1{
     margin-right: auto;
     float: inline-start;
 }
+.reqBtn{
+    background-image: linear-gradient(hsl(136, 65%, 51%), hsl(192, 70%, 51%));
+}
+
+.reqBtn:hover{
+    background-image: linear-gradient(hsl(192, 70%, 51%),hsl(136, 65%, 51%));
+}
 
 .footer{
     background-color: hsl(233, 26%, 24%);
+    width: 100%;
+    height: auto;
+}
+.socials:hover{
+    color: aqua;
+}
+.nav-underline{
+    color:hsl(136, 65%, 51% ;
 }
