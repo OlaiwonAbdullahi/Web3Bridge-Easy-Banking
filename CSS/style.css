@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     color: hsl(233, 26%, 24%);
+    font-family: 'Public Sans' sans-serif;
 }
 .reqBtn{
     width: 120px;
