@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     color: hsl(233, 26%, 24%);
-   
+    max-width: 100%;
 }
 html{
     scroll-behavior: smooth;
