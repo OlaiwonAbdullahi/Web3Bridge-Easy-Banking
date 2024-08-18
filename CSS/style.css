@@ -24,7 +24,7 @@ html{
 }
 .heroImg{
     height: 550px;
-    width: 450px;
+    width: 650px;
 }
 h1{
     font-size: 3rem;
@@ -59,38 +59,7 @@ h1{
     color:hsl(136, 65%, 51% ;
 }
 
-header{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 10;
-}
 
-.navbar{
-    background-color: #ffffff;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-}
-.navbar-toggle-btn{
-    display: flex;
-    flex-direction: column;
-    gap: 0;
-    padding: 0 20px;
-
-}
-.navbar-toggle-btn span{
-   display:block ;
-   background-color: hsl(233, 26%, 24%) ;
-   width: 25px;
-   height: 1px;
-   transition: 0.25 ease;
-}
-.navbar-toggle-btn .active .one{
-
-}
 @media screen and (min-width: 480px) {
 .card{ color: aqua;
 
