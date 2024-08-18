@@ -27,10 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Github Repo [Add solution URL here](https://github.com/OlaiwonAbdullahi/Web3Bridge-Easy-Banking/)
-- Live Site URL: [Add live site URL here](https://web3bridge-easy-banking.netlify.app/)
-
-## My process
+- Github Repo [https://github.com/OlaiwonAbdullahi/Web3Bridge-Easy-Banking/](https://github.com/OlaiwonAbdullahi/Web3Bridge-Easy-Banking/)
+- Live Site URL: [https://web3bridge-easy-banking.netlify.app/](https://web3bridge-easy-banking.netlify.app/)
 
 ### Built with
 
@@ -39,7 +37,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Bootsrap](https://getbootstrap.com/) - JS library
+- [Bootsrap](https://getbootstrap.com/)
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
