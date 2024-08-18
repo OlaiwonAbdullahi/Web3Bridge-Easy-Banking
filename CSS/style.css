@@ -28,6 +28,7 @@ html{
 }
 h1{
     font-size: 3rem;
+    font-family: 'Public Sans' sans-serif;
 }
 .hero-right{
     background-image:url(./images/bg-intro-desktop.svg);
@@ -59,6 +60,9 @@ h1{
     color:hsl(136, 65%, 51% ;
 }
 
+.card-title:hover{
+    color: hsl(136, 65%, 51%);
+}
 
 @media screen and (min-width: 480px) {
 .card{ color: aqua;
